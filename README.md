@@ -29,7 +29,7 @@ Email: Kelmains@gmail.com <br>
 LinkedIn https://www.linkedin.com/in/maina-kelvin-0a6651101/
 
 ### **Project Live Link**
-Link:
+Live Link: https://kelmains.github.io/PizzaPalace/
 
 #### **Copyright & License**
 Distributed under the MIT License. See LICENSE for more information on license and copyright.

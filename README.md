@@ -16,10 +16,10 @@ Javascript
 | ---------------------|:--------------------:| ----------------:|
 | Choose size of pizza | small, medium or large | selected input (eg: large) |
 | Choose a crust type  | crispy, stuffed or gluten-free |  selected input (eg: stuffed) |
-| Choose pizza toppings| select desired toppings |    $1 |
+| Choose pizza toppings| select desired toppings |    ksh |
 | See total charge or add pizza | click on desired button | display total charge or prompt user to add pizzas |
 | Have pizza delivered | click on delivery button | prompt user to enter delivery info & display cost |
-| Checkout | Click on checkout button | Display total cost |
+
 
 #### **Project setup**
 git clone https://github.com/kelmains/PizzaPalace.git on your working directory and use a text editor of your prefered choice.[Recomended editor is _Atom_].

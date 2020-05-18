@@ -168,7 +168,7 @@ td,th{
 footer{
     display: block;
     padding: 40px;
-    text-align: center; 
+    text-align: center;
 }
 #addedprice{
   display: none;
@@ -231,5 +231,10 @@ header,
   margin-right: 5%;
   margin-left: 10%;
 }
+
+}
+.fa{
+  font-size: 20px;
+  
 
 }
